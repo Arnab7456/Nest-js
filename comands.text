@@ -9,3 +9,7 @@ nest g module users
 nest g controller users
 // service == provider
 nest g service users
+
+npm run start:dev
+
+but also follow the waterfall modle
